@@ -10,9 +10,9 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "users")
+@Table(name="users")
 public class User {
-	
+
 	@Id
 	private String username;
 	private String password;
