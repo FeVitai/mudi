@@ -52,4 +52,5 @@ public class RequisicaoNovoPedido {
 		return pedido;
 	}
 	
+	
 }
